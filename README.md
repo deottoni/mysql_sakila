@@ -1,2 +1,2 @@
 # mysql_sakila
-homework from UT Data bootcamp
+MySQL homework from UT Data bootcamp week 9
